@@ -30,6 +30,6 @@ services:
     image: adminer
     restart: always
     ports:
-      - 8020:8020
+      - 8010:8080
 
       
